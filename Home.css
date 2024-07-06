@@ -8,7 +8,7 @@
 .one{
     height: 100vh;
     width: 100%;
-    background-color: rgb(54, 47, 47);
+    background-image: url(https://st.depositphotos.com/10614052/57169/i/450/depositphotos_571693906-stock-photo-green-hemp-leaves-black-background.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -104,4 +104,20 @@ h4{
     border: 2px solid rgb(148, 41, 41);
     outline: none;
     border-radius: 30px;
+}
+
+.newslatter form input:last-child{
+    position: absolute;
+    display: inline-block;
+    outline: none;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    background-color: rgb(238, 14, 52);
+    color: white;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
+    top: 6px;
+    right: 6px;
+    
 }
