@@ -124,7 +124,7 @@ h4{
 .about{
     width: 100%;
     padding: 100px 0px;
-    background-color: #191919;
+    background-color: #050505;
 }
 
 .about img{
@@ -146,7 +146,7 @@ h4{
 }
 
 .about-text h2{
-    color: rgb(226, 17, 52);
+    color: rgb(243, 241, 242);
     font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 20px;
@@ -154,5 +154,17 @@ h4{
 
 .about-text h5{
     color: white;
-    
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.about-text p{
+    color: #fcfc;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 20px;
+    margin-bottom: 45px;
+
 }
