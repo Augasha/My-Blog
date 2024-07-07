@@ -182,5 +182,56 @@ button:hover{
     background-color: transparent;
     border: 2px solid rgb(238, 14, 52);
     cursor: pointer;
+}
+
+.service{
+    background: #050505;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.title h2{
+    color: white;
+    font-size: 45px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100px;
+}
+
+.card{
+    height: 365px;
+    width: 335px;
+    padding: 20px 35px;
+    background-color: #191919;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card i{
+    font-size: 50px;
+    text-align: center;
+    display: block;
+    margin: 25px 0px;
+    color: #f9004d;
+}
+
+h5{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.augasha p{
+    color: #fcfc;
     
 }
